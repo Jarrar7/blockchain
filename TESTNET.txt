@@ -1,0 +1,7 @@
+TESTNET:
+Wallet_1 Address: 0xaAeBE4D3059A2F33e85e2168eafBc24C24C8F5dE
+Wallet_1 PrivateKey: 0x8e5d7ecd632b26d75b83e15ecb91fb044a96d5e06e7ce3768e52246ae5fac6ff
+
+
+Wallet_2 Address: 0xf6982d3AA07bffe4e9d59407fc0E0B41849e99DB
+Wallet_2 PrivateKey: 0x43996e22ace5ea215ea042781254d03f62aa2b40a7c4726a4ee9acbc2bc3e731
