@@ -5,3 +5,16 @@ Wallet_1 PrivateKey: 0x8e5d7ecd632b26d75b83e15ecb91fb044a96d5e06e7ce3768e52246ae
 
 Wallet_2 Address: 0xf6982d3AA07bffe4e9d59407fc0E0B41849e99DB
 Wallet_2 PrivateKey: 0x43996e22ace5ea215ea042781254d03f62aa2b40a7c4726a4ee9acbc2bc3e731
+
+
+
+
+---------------------------------------------------------------------------------------------------
+WITH MENEMONIC
+
+Wallet1: inflict length salon search motion produce iron easy alarm rival mosquito song
+Address : 0x38f56086cc70088db826067ed6090336abcf29aa
+
+
+Wallet2: bridge reduce general ethics print liberty mercy mule firm wish surprise able
+Address: 0x39103b61ddcdf872e5026b5d5d5f80ecddec3ddb
